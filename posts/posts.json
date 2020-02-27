@@ -1,0 +1,5 @@
+{
+    "layout": "layouts/post.njk",
+    "permalink": "posts/turning-netlify-cms-up-to-eleventy/index.html",
+    "tags": "post"
+}
