@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/sparkwebdev/test-netlify#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.10.0"
+    "@11ty/eleventy": "^0.10.0",
+    "luxon": "^1.22.0"
   }
 }
